@@ -1,4 +1,4 @@
-# Card payment processing with Checkout API
+# Card payment processing with Checkout Bricks
 
 [Português](README.pt.md) / [Español](README.es.md)
 

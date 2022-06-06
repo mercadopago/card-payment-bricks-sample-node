@@ -1,4 +1,4 @@
-# Processamento de pagamento com cartão via Checkout Transparente
+# Processamento de pagamento com cartão via Checkout Bricks
 
 [English](README.md) / [Español](README.es.md)
 
